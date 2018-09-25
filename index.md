@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Trade Cryptoassets Peer-to-Peer
 ---
 
 # About XCP
