@@ -1,5 +1,10 @@
 title: XCP
 description: Trade Cryptoassets Peer-to-Peer
+github:
+  is_project_page: true
+  repository_name: XCP
+  repository_url: https://github.com/xcp
+  owner_name: Dan Anderson
+  owner_url: https://github.com/droplister
 show_downloads: false
-google_analytics:
 theme: jekyll-theme-cayman
